@@ -3,7 +3,18 @@
   "version": "1.0.0",
   "description": "Returns the IP for a DigitalOcean App on the App platform",
   "main": "src/index.js",
-  "repository": "https://github.com/BasWilson/do-ip-getter.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BasWilson/do-ip-getter.git"
+  },
   "author": "Basssie <friedcatps@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BasWilson/do-ip-getter/issues"
+  },
+  "homepage": "https://github.com/BasWilson/do-ip-getter#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  }
 }

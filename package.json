@@ -1,0 +1,9 @@
+{
+  "name": "do-ip-getter",
+  "version": "1.0.0",
+  "description": "Returns the IP for a DigitalOcean App on the App platform",
+  "main": "src/index.js",
+  "repository": "https://github.com/BasWilson/do-ip-getter.git",
+  "author": "Basssie <friedcatps@gmail.com>",
+  "license": "MIT"
+}
